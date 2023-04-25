@@ -64,13 +64,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](https://kgomotso196.github.io/HelloMicroverse/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -147,6 +140,6 @@ If you like this project comment or rate it.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Kgomotso196/HelloMicroverse/blob/new-project/MIT.md) licensed.
+This project is [MIT](/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
