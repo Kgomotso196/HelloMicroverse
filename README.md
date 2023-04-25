@@ -67,7 +67,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://kgomotso196.github.io/Hello-Microverse/)
+- [Live Demo Link](https://kgomotso196.github.io/HelloMicroverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +87,7 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/Kgomotso196/Hello-Microverse.git
+Clone this repository to your desired folder: https://github.com/Kgomotso196/HelloMicroverse.git
 
 ### Install
 
@@ -147,6 +147,6 @@ If you like this project comment or rate it.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Kgomotso196/Hello-Microverse/blob/new-project/MIT.md) licensed.
+This project is [MIT](https://github.com/Kgomotso196/HelloMicroverse/blob/new-project/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
