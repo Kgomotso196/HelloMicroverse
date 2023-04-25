@@ -1,0 +1,23 @@
+{
+  "name": "hellomicroverse",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kgomotso196/HelloMicroverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kgomotso196/HelloMicroverse/issues"
+  },
+  "homepage": "https://github.com/Kgomotso196/HelloMicroverse#readme",
+  "devDependencies": {
+    "hint": "^7.1.8"
+  }
+}
