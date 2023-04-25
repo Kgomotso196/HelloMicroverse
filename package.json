@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Kgomotso196/HelloMicroverse#readme",
   "devDependencies": {
-    "hint": "^2.0.0"
+    "hint": "^7.1.8"
   }
 }
